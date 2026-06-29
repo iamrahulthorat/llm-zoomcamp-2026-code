@@ -10,3 +10,8 @@ wheels/
 .venv
 .env
 .idea/
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
